@@ -8,6 +8,7 @@ MODEL = "deepseek/deepseek-chat-v3-0324"  # Atau ganti sesuai model favoritmu
 
 HEADERS = {
     "Authorization": f"Bearer {OPENROUTER_API_KEY}",
+    "HTTP-Referer": "https://demo-chatbot-webinar.streamlit.app/", 
     "X-Title": "AI Chatbot Streamlit"
 }
 
