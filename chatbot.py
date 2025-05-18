@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # ========== CONFIG ==========
-OPENROUTER_API_KEY = "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"  # Ganti dengan OpenRouter API Key-mu
+OPENROUTER_API_KEY = "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"  # Ganti dengan OpenRouter API Key-mu
 
 MODEL = "deepseek/deepseek-chat-v3-0324"  # Atau ganti sesuai model favoritmu
 
